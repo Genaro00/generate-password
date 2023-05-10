@@ -1,0 +1,48 @@
+body {
+    margin: 0;
+    background: #1F2937;
+}
+.div-container{
+    
+    width: 450px;
+    height: 450px;
+    margin: 0 auto;
+    
+}
+.body-title{
+    color: #D5D4D8;
+    
+}
+.body-title2{
+    color: #4ADF86
+}
+.body-paragraph{
+    color: white
+}
+button{
+    background: #10B981;
+    color: white;
+    border: none;
+    border-radius: 6px; 
+    padding: 9px 15px;
+    margin-bottom: 30px;
+    border-bottom: 1px solid #2F3E53
+}
+.password-generate{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: #55F991;
+    border-top: 1px solid #2F3E53;
+    
+    
+}
+.password-generate p{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #2F3E53;
+    border-radius: 6px;
+    width: 211px;
+    height: 35px;
+}
